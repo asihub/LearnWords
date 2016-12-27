@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LearnWords</string>
+    <string name="original_text">Word:</string>
+    <string name="translation_text">Translation:</string>
+    <string name="transcription_text">Transcription:</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_message">Correct</string>
+    <string name="incorrect_message">Incorrect</string>
+    <string name="next_button">Next</string>
+    <string name="question_text">Please check if translation is correct</string>
+    <string name="ok_button">Ok</string>
+    <string name="word_activity_caption">Word</string>
+    <string name="card_button">Show card</string>
+
+
+    <string name="original_1">Ability</string>
+    <string name="translation_1">Здатність</string>
+    <string name="transcription_1">[ə\'bɪlətɪ]</string>
+
+    <string name="original_2">Accommodate</string>
+    <string name="translation_2">Забезпечувати</string>
+    <string name="transcription_2">[ə\'kɔmədeɪt]</string>
+
+    <string name="original_3">Accusation</string>
+    <string name="translation_3">Звинувачення</string>
+    <string name="transcription_3">[ækju\'zeɪʃ(ə)n]</string>
+
+</resources>
